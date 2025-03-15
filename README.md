@@ -7,28 +7,9 @@
 ---
 
 ### 🚀 I’m currently working on:
-- Developing AI-powered financial solutions for underserved communities
+- Developing AI-powered financial solutions
 - Advancing research on cryptocurrency, AI, and fintech in the global economy
 - Creating innovative banking and financial technology applications
-
-### 🤝 I’m looking to collaborate on:
-- Fintech and AI-driven financial models
-- Web and mobile app development
-- Data-driven decision-making and quantitative analysis
-
-### ✋ I’m looking for help with:
-- Scaling AI solutions for banking and financial services
-
-### 🌱 I’m currently learning:
-- Advanced actuarial modeling and risk analysis
-- Machine learning applications in finance
-- Quantitative methods in investment and trading strategies
-
-### 💬 Ask me about:
-- Fintech, AI, and blockchain innovations
-- Actuarial science and financial modeling
-- Entrepreneurship and startup growth
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sunny-boy-shabalala/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@sunnybboy_) 
