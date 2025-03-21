@@ -1,8 +1,8 @@
 ### Hi, I'm **Sunny-Boy Shabalala** 👋  
 
-🎯 **Quantitative Finance & Actuarial Science Student**  
-📍 **North-West University | Formerly University of the Free State**  
-🚀 **Building AI & Fintech Start-Up Company**  
+**Quantitative Finance & Actuarial Science Student**  
+**North-West University | Formerly University of the Free State**  
+**Building AI & Fintech Start-Up Company**  
 
 ---
 
