@@ -1,54 +1,68 @@
-# Hi, I'm Sunny-Boy Shabalala 👋
-
-### Quantitative Finance & Actuarial Science Student | AI & Fintech Enthusiast
-
-Currently at **North-West University** • Previously at **University of the Free State**
-
----
-
-## 🎯 What I'm Building
-
-- **AI-Powered Financial Solutions** - Developing intelligent tools for modern finance
-- **Fintech Start-Up** - Building the future of banking and financial technology
-- **Research Focus** - Cryptocurrency, AI applications in finance, and quantitative modeling
-
-## 💡 Core Competencies
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-### Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunny-bboy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunny-bboy&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+  
+# Sunny-Boy Shabalala
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-bboy&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" width="48%" />
-</div>
-
-## 🤝 Let's Connect
+### Quantitative Finance & AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-boy-shabalala/)
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@sunnybboy_)
 
+</div>
+
 ---
 
-<div align="center">
-  <i>Building the intersection of finance and technology, one commit at a time.</i>
-</div>
+### 🎓 Academic Background
+
+**North-West University** • BSc Quantitative Finance & Actuarial Science  
+*Previously: University of the Free State*
+
+### 💼 Current Focus
+
+Building **AI-powered financial infrastructure** at the intersection of quantitative finance and machine learning. Developing next-generation fintech solutions that leverage advanced algorithms for:
+
+- 📈 **Algorithmic Trading Systems**
+- 🔐 **Blockchain & Cryptocurrency Analytics**
+- 🤖 **AI-Driven Risk Assessment Models**
+- 💳 **Modern Banking Technology Solutions**
+
+---
+
+### 🛠️ Technical Expertise
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/512px-R_logo.svg.png" alt="R" width="65" height="65" />
+      <br>R
+    </td>
+  </tr>
+</table>
+
+#### Specialized Skills
+
+```text
+Quantitative Analysis    ████████████████████  95%
+Financial Modeling       ████████████████████  90%
+Machine Learning         ████████████████░░░░  85%
+Full-Stack Development   ████████████████░░░░  80%
+Blockchain Technology    ███████████████░░░░░  75%
