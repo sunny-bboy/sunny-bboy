@@ -134,19 +134,6 @@ BSc Quantitative Finance & Actuarial Science student at **North-West University*
 
 <br>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  
-| Project | Description | Technologies |
-|:--------|:------------|:-------------|
-| **🤖 Quantitative Trading Engine** | ML-powered algorithmic trading system with real-time market analysis | `Python` `TensorFlow` `PostgreSQL` `Docker` |
-| **📊 Portfolio Risk Analyzer** | Advanced risk metrics and stress testing platform for portfolio optimization | `R` `Python` `React` `D3.js` |
-| **🔐 Crypto Analytics Dashboard** | Real-time cryptocurrency market analysis with sentiment tracking | `Node.js` `React` `Web3.js` `MongoDB` |
-| **🏦 Banking API Framework** | Secure RESTful APIs for modern banking and payment processing | `C#` `.NET Core` `Azure` `SQL Server` |
-
-</div>
-
 <br>
 
 ## 📈 Contribution Activity
