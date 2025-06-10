@@ -15,45 +15,199 @@ BSc Quantitative Finance & Actuarial Science student at **North-West University*
 
 ## Technical Stack
 
-**Languages:** Python • JavaScript • C++ • C# • R • SQL  
-**Frameworks:** React • Node.js • .NET Core • TensorFlow  
-**Technologies:** Docker • AWS • MongoDB • PostgreSQL • Git
-
-## GitHub Statistics
-
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sunny-bboy&show_icons=true&theme=default&hide_border=true&disable_animations=true&custom_title=Performance%20Metrics" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-bboy&layout=compact&theme=default&hide_border=true&disable_animations=true" />
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" /></a>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" /></a>
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a>
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>
+        <br>C#
+      </td>
+      <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" /></a>
+        <br>R
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /></a>
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a>
+        <br>Docker
+            </td>
+      <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a>
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a>
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" /></a>
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /></a>
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a>
+        <br>VS Code
+      </td>
+    </tr>
+  </table>
 </div>
 
-## Current Work
+<br>
 
-- **Algorithmic Trading Systems** - Developing ML-powered trading algorithms for equity and cryptocurrency markets
-- **Risk Analytics Platform** - Building quantitative risk assessment tools for portfolio optimization
-- **DeFi Infrastructure** - Creating smart contract solutions for decentralized finance applications
-- **FinTech APIs** - Designing RESTful services for modern banking and payment systems
+## 📊 GitHub Analytics
 
-## Featured Projects
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sunny-bboy&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-bboy&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Quantitative Trading Engine** | Automated trading system with backtesting capabilities | Python, TensorFlow, PostgreSQL |
-| **Portfolio Risk Analyzer** | Real-time risk metrics and stress testing platform | R, Python, React |
-| **Crypto Analytics Dashboard** | Market analysis and sentiment tracking for digital assets | Node.js, React, Web3 |
-| **Banking API Framework** | Secure payment processing and account management | C#, .NET Core, Azure |
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunny-bboy&theme=dark&hide_border=true&stroke=0d1117&background=0d1117&ring=02D9F7FF&fire=02D9F7FF&currStreakLabel=02D9F7FF" />
+</div>
 
-## Education
+<br>
 
-**North-West University**  
-BSc Quantitative Finance & Actuarial Science  
-*Previously: University of the Free State*
+## 🎯 Current Focus
 
-## Contact
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="60"/>
+        <br><br><strong>AI/ML in Finance</strong>
+        <br>Algorithmic Trading
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/nolan/64/blockchain-technology.png" width="60"/>
+        <br><br><strong>Blockchain</strong>
+        <br>DeFi Solutions
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/nolan/64/combo-chart.png" width="60"/>
+        <br><br><strong>Quantitative Analysis</strong>
+        <br>Risk Modeling
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/nolan/64/bank-building.png" width="60"/>
+        <br><br><strong>FinTech</strong>
+        <br>Banking Innovation
+      </td>
+    </tr>
+  </table>
+</div>
 
-For professional inquiries and collaboration opportunities, please connect via [LinkedIn](https://www.linkedin.com/in/sunny-boy-shabalala/) or [Twitter/X](https://x.com/@sunnybboy_).
+<br>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  
+| Project | Description | Technologies |
+|:--------|:------------|:-------------|
+| **🤖 Quantitative Trading Engine** | ML-powered algorithmic trading system with real-time market analysis | `Python` `TensorFlow` `PostgreSQL` `Docker` |
+| **📊 Portfolio Risk Analyzer** | Advanced risk metrics and stress testing platform for portfolio optimization | `R` `Python` `React` `D3.js` |
+| **🔐 Crypto Analytics Dashboard** | Real-time cryptocurrency market analysis with sentiment tracking | `Node.js` `React` `Web3.js` `MongoDB` |
+| **🏦 Banking API Framework** | Secure RESTful APIs for modern banking and payment processing | `C#` `.NET Core` `Azure` `SQL Server` |
+
+</div>
+
+<br>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunny-bboy&bg_color=0d1117&color=02D9F7FF&line=02D9F7FF&point=fff&area=true&hide_border=true" />
+</div>
+
+<br>
+
+## 🎓 Education
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/nolan/64/university.png" width="50"/>
+        <br><strong>North-West University</strong>
+        <br>BSc Quantitative Finance & Actuarial Science
+        <br><em>Current</em>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/nolan/64/graduation-cap.png" width="50"/>
+        <br><strong>University of the Free State</strong>
+        <br>Previous Studies
+        <br><em>Transferred</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 📫 Let's Connect
+
+<div align="center">
+  <p>
+    <i>I'm always interested in collaborating on innovative fintech projects and research opportunities.</i>
+  </p>
+  
+  <a href="https://www.linkedin.com/in/sunny-boy-shabalala/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/@sunnybboy_">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=sunny-bboy&color=02D9F7FF&style=for-the-badge" alt="Profile views" />
+</div>
 
 ---
 
 <div align="center">
-  <sub>© 2024 Sunny-Boy Shabalala. Building intelligent financial solutions.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:02D9F7FF&height=100&section=footer&fontSize=0" />
+  <br>
+  <strong>Building the future of finance through quantitative analysis and intelligent technology.</strong>
 </div>
