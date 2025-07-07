@@ -136,14 +136,6 @@ BSc Quantitative Finance & Actuarial Science student at **North-West University*
 
 <br>
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunny-bboy&bg_color=0d1117&color=02D9F7FF&line=02D9F7FF&point=fff&area=true&hide_border=true" />
-</div>
-
-<br>
-
 ## 🎓 Education
 
 <div align="center">
