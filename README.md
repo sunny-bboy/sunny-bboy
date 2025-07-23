@@ -136,28 +136,6 @@ BSc Quantitative Finance & Actuarial Science student at **North-West University*
 
 <br>
 
-## 🎓 Education
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/nolan/64/university.png" width="50"/>
-        <br><strong>North-West University</strong>
-        <br>BSc Quantitative Finance & Actuarial Science
-        <br><em>Current</em>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/nolan/64/graduation-cap.png" width="50"/>
-        <br><strong>University of the Free State</strong>
-        <br>Previous Studies
-        <br><em>Transferred</em>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
 
 ## 📫 Let's Connect
 
