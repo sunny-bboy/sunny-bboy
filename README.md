@@ -137,8 +137,6 @@ BSc Quantitative Finance & Actuarial Science student at **North-West University*
 <br>
 
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:02D9F7FF&height=100&section=footer&fontSize=0" />
   <br>
