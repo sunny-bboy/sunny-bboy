@@ -137,30 +137,6 @@ BSc Quantitative Finance & Actuarial Science student at **North-West University*
 <br>
 
 
-## 📫 Let's Connect
-
-<div align="center">
-  <p>
-    <i>I'm always interested in collaborating on innovative fintech projects and research opportunities.</i>
-  </p>
-  
-  <a href="https://www.linkedin.com/in/sunny-boy-shabalala/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/@sunnybboy_">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=sunny-bboy&color=02D9F7FF&style=for-the-badge" alt="Profile views" />
-</div>
-
 ---
 
 <div align="center">
