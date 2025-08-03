@@ -2,7 +2,7 @@
 
 # **Sunny-Boy Shabalala**
 
-#### Quantitative Finance & Actuarial Science | AI Engineering
+#### Quantitative Risk Finance & Actuarial Science | AI Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-boy-shabalala/)
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/@sunnybboy_)
@@ -11,7 +11,7 @@
 
 ## About
 
-BSc Quantitative Finance & Actuarial Science student at **North-West University**, specializing in the intersection of financial engineering and artificial intelligence. Building scalable financial technology solutions with a focus on algorithmic trading, risk management, and blockchain applications.
+BSc Quantitative Risk Finance & Actuarial Science student at **North-West University**, specializing in the intersection of financial engineering and artificial intelligence. Building scalable financial technology solutions with a focus on algorithmic trading, risk management, and blockchain applications.
 
 ## Technical Stack
 
