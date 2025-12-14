@@ -2,18 +2,22 @@
 
 # **Sunny-Boy Shabalala**
 
-#### Quantitative Risk Finance & Actuarial Science | AI Engineering
+#### Quantitative Risk Finance & Actuarial Science | Machine Learning Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-boy-shabalala/)
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/@sunnybboy_)
 
 </div>
 
+---
+
 ## About
 
-BSc Quantitative Risk Finance & Actuarial Science student at **North-West University**, specializing in the intersection of financial engineering and artificial intelligence. Building scalable financial technology solutions with a focus on algorithmic trading, risk management, and blockchain applications.
+BSc (Hons) candidate in Quantitative Risk Finance & Actuarial Science at **North-West University**, with a specialization in the convergence of financial engineering and artificial intelligence. My work centers on developing scalable financial technology solutions, with particular emphasis on algorithmic trading systems, quantitative risk modeling, and distributed ledger applications.
 
-## Technical Stack
+---
+
+## Technical Proficiencies
 
 <div align="center">
   <table>
@@ -59,7 +63,7 @@ BSc Quantitative Risk Finance & Actuarial Science student at **North-West Univer
       <td align="center" width="96">
         <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a>
         <br>Docker
-            </td>
+      </td>
       <td align="center" width="96">
         <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /></a>
         <br>AWS
@@ -88,7 +92,7 @@ BSc Quantitative Risk Finance & Actuarial Science student at **North-West Univer
   </table>
 </div>
 
-<br>
+---
 
 ## 📊 GitHub Analytics
 
@@ -101,9 +105,9 @@ BSc Quantitative Risk Finance & Actuarial Science student at **North-West Univer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunny-bboy&theme=dark&hide_border=true&stroke=0d1117&background=0d1117&ring=02D9F7FF&fire=02D9F7FF&currStreakLabel=02D9F7FF" />
 </div>
 
-<br>
+---
 
-## 🎯 Current Focus
+## 🎯 Areas of Focus
 
 <div align="center">
   <table>
@@ -111,33 +115,29 @@ BSc Quantitative Risk Finance & Actuarial Science student at **North-West Univer
       <td align="center" width="25%">
         <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="60"/>
         <br><br><strong>AI/ML in Finance</strong>
-        <br>Algorithmic Trading
+        <br>Algorithmic Trading Systems
       </td>
       <td align="center" width="25%">
         <img src="https://img.icons8.com/nolan/64/blockchain-technology.png" width="60"/>
-        <br><br><strong>Blockchain</strong>
-        <br>DeFi Solutions
+        <br><br><strong>Blockchain Technology</strong>
+        <br>Decentralized Finance (DeFi)
       </td>
       <td align="center" width="25%">
         <img src="https://img.icons8.com/nolan/64/combo-chart.png" width="60"/>
         <br><br><strong>Quantitative Analysis</strong>
-        <br>Risk Modeling
+        <br>Risk Modeling & Assessment
       </td>
       <td align="center" width="25%">
         <img src="https://img.icons8.com/nolan/64/bank-building.png" width="60"/>
-        <br><br><strong>FinTech</strong>
-        <br>Banking Innovation
+        <br><br><strong>Financial Technology</strong>
+        <br>Banking & Payments Innovation
       </td>
     </tr>
   </table>
 </div>
 
-<br>
-
-<br>
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:02D9F7FF&height=100&section=footer&fontSize=0" />
-  <br>
-  <strong></strong>
 </div>
