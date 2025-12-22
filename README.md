@@ -13,7 +13,7 @@
 
 ## About
 
-BSc (Hons) candidate in Quantitative Risk Finance & Actuarial Science at **North-West University**, with a specialization in the convergence of financial engineering and artificial intelligence. My work centers on developing scalable financial technology solutions, with particular emphasis on algorithmic trading systems, quantitative risk modeling, and distributed ledger applications.
+Quantitative Risk Finance & Actuarial Science at **North-West University**, with a specialization in the convergence of financial engineering and artificial intelligence. My work centers on developing scalable financial technology solutions, with particular emphasis on algorithmic trading systems, quantitative risk modeling, tech, and distributed ledger applications.
 
 ---
 
