@@ -98,15 +98,24 @@ Quantitative Risk Finance & Actuarial Science at **North-West University**, with
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sunny-bboy&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-bboy&layout=compact&hide_border=true&title_color=02D9F7&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=sunny-bboy&theme=dark&hide_border=true&stroke=0d1117&background=0d1117&ring=02D9F7&fire=02D9F7&currStreakLabel=02D9F7" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=sunny-bboy&bg_color=0d1117&color=c9d1d9&line=02D9F7&point=FFFFFF&area=true&hide_border=true" />
+  <table style="border: none; border-collapse: collapse; background-color: #0d1117;">
+    <tr style="border: none;">
+      <td style="border: none; padding: 0; padding-right: 10px;" width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=sunny-bboy&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117&height=180" alt="Stats" width="100%" />
+      </td>
+      <td style="border: none; padding: 0;" width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-bboy&layout=compact&hide_border=true&title_color=02D9F7&text_color=c9d1d9&bg_color=0d1117&height=180" alt="Languages" width="100%" />
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td style="border: none; padding: 0; padding-right: 10px; padding-top: 10px;" width="50%" align="center">
+        <img src="https://streak-stats.demolab.com?user=sunny-bboy&theme=dark&hide_border=true&stroke=0d1117&background=0d1117&ring=02D9F7&fire=02D9F7&currStreakLabel=02D9F7&height=180" alt="Streak" width="100%" />
+      </td>
+      <td style="border: none; padding: 0; padding-top: 10px;" width="50%" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunny-bboy&bg_color=0d1117&color=c9d1d9&line=02D9F7&point=FFFFFF&area=true&hide_border=true&height=180&custom_title=Contribution%20Dynamics" alt="Activity Graph" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
