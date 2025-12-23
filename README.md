@@ -102,7 +102,7 @@ Quantitative Risk Finance & Actuarial Science at **North-West University**, with
 </div>
 
 <div align="center">
-  <img width="98%" src="https://metrics.lecoq.io/sunny-bboy?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&theme=dark" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=sunny-bboy&theme=dark&hide_border=true&background=0d1117&ring=02D9F7FF&fire=02D9F7FF&currStreakLabel=02D9F7FF" />
 </div>
 
 ---
