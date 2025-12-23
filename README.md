@@ -100,17 +100,25 @@ Quantitative Risk Finance & Actuarial Science at **North-West University**, with
   <img
     width="49%"
     height="195px"
-    src="https://streak-stats.demolab.com?user=sunny-bboy
-         &theme=dark
-         &hide_border=true
-         &stroke=0d1117
-         &background=0d1117
-         &ring=02D9F7FF
-         &fire=02D9F7FF
-         &currStreakLabel=02D9F7FF"
+    src="https://github-readme-stats.vercel.app/api?username=sunny-bboy&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117"
+  />
+  <img
+    width="49%"
+    height="195px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-bboy&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117"
+  />
+</div>
+
+<div align="center">
+  <img
+    width="49%"
+    height="195px"
+    src="https://streak-stats.demolab.com?user=sunny-bboy&theme=dark&hide_border=true&stroke=0d1117&background=0d1117&ring=02D9F7FF&fire=02D9F7FF&currStreakLabel=02D9F7FF"
     alt="GitHub Contribution Streak"
   />
 </div>
+
+
 ---
 
 ## 🎯 Areas of Focus
