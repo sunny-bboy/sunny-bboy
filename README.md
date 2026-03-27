@@ -1,15 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0B1E3E,60:0E3A6E,100:02D9F7&height=180&section=header&text=Sunny-Boy%20Shabalala&fontSize=44&fontColor=FFFFFF&fontAlignY=32&desc=Quantitative%20Risk%20%7C%20Actuarial%20Science%20%7C%20Econometrics&descSize=15&descAlignY=52&descColor=94A3B8&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0B1E3E,60:0E3A6E,100:02D9F7&height=180&section=header&text=Sunny-Boy%20Shabalala&fontSize=44&fontColor=FFFFFF&fontAlignY=32&desc=Quantitative%20Risk%20Management%20%7C%20Actuarial%20Science%20%7C%20Econometrics&descSize=15&descAlignY=52&descColor=94A3B8&animation=fadeIn" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-boy-shabalala/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@sunnybboy_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=02D9F7)](https://shabalala.netlify.app/)
+<a href="https://www.linkedin.com/in/sunny-boy-shabalala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/@sunnybboy_"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://shabalala.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=02D9F7" /></a>
 
 </div>
-
----
-
 ---
 
 ## About
