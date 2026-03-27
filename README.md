@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0B1E3E,60:0E3A6E,100:02D9F7&height=150&section=header&text=Sunny-Boy%20Shabalala&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Quantitative%20Finance%20%7C%20Actuarial%20Science%20%7C%20Econometrics&descSize=14&descAlignY=55&descColor=94A3B8&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1E3E,50:0E3A6E,100:02D9F7&height=200&text=Sunny-Boy%20Shabalala&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=Quantitative%20Finance%20%7C%20Actuarial%20Science%20%7C%20Econometrics&descSize=15&descAlignY=68&descColor=94A3B8&stroke=02D9F7&strokeWidth=1" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-boy-shabalala/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@sunnybboy_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=02D9F7)](https://sunny-bboy.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=02D9F7)](https://shabalala.netlify.app/)
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ## About
 
-Third-year BSc Quantitative Risk Management student at **North-West University** with hands-on experience across fintech startups, actuarial internships, data engineering contracts, and AI model training. I build at the intersection of quantitative finance, software engineering, and machine learning.
+Final-year BSc Actuarial Science, Quantitative Risk Management, Econometrics student at **North-West University, University of the Free State** with hands-on experience across fintech startups, actuarial internships, data engineering contracts, and AI model training. I build at the intersection of quantitative finance, software engineering, and machine learning.
 
-My work spans algorithmic trading systems, statistical risk models, full-stack financial applications, and applied ML pipelines. I have shipped production code, contributed to fintech products that placed nationally, and worked as a data steward and actuarial science tutor. Currently pursuing Oracle certifications in cloud and security alongside continued work in quantitative modeling.
+My work spans algorithmic trading systems, statistical risk models, full-stack financial applications, and applied ML pipelines. I have shipped production code, contributed to fintech products that placed nationally, and worked as a data steward and actuarial science tutor.
 
 ---
 
@@ -121,31 +121,16 @@ My work spans algorithmic trading systems, statistical risk models, full-stack f
 
 ```python
 class SunnyBoy:
-    
+
     def __init__(self):
-        self.role = "Quantitative Risk Management Student"
-        self.university = "North-West University"
-        
-    def current_focus(self):
+        self.role  = "Quantitative Risk Management Student"
+        self.uni   = "North-West University"
+
+    def focus(self):
         return {
-            "quantitative_risk_modeling": [
-                "Stochastic models for insurance and financial risk",
-                "Actuarial reserving and ratemaking frameworks"
-            ],
-            "algorithmic_trading": [
-                "Signal generation and backtesting pipelines",
-                "Execution logic in Python and C++"
-            ],
-            "ml_financial_time_series": [
-                "Supervised and reinforcement learning",
-                "Market microstructure and forecasting"
-            ],
-            "cloud_and_security": [
-                "Oracle OCI Data Science certification",
-                "Oracle OCI Security certification"
-            ],
-            "full_stack_fintech": [
-                "React and Node.js financial applications",
-                "SQL-backed distributed architectures"
-            ]
+            "risk_modeling"    : "Stochastic models, actuarial reserving, ratemaking",
+            "algo_trading"     : "Signal pipelines, backtesting, execution in Python/C++",
+            "ml_finance"       : "Time series forecasting, reinforcement learning",
+            "cloud_security"   : "Oracle OCI Data Science & Security certs",
+            "fintech"          : "Full-stack financial apps, React/Node/SQL"
         }
