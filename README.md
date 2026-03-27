@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0B1E3E,60:0E3A6E,100:02D9F7&height=180&section=header&text=Sunny-Boy%20Shabalala&fontSize=44&fontColor=FFFFFF&fontAlignY=32&desc=Quantitative%20Finance%20%7C%20Actuarial%20Science%20%7C%20Econometrics&descSize=15&descAlignY=52&descColor=94A3B8&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0B1E3E,60:0E3A6E,100:02D9F7&height=180&section=header&text=Sunny-Boy%20Shabalala&fontSize=44&fontColor=FFFFFF&fontAlignY=32&desc=Quantitative%20Risk%20%7C%20Actuarial%20Science%20%7C%20Econometrics&descSize=15&descAlignY=52&descColor=94A3B8&animation=twinkling" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-boy-shabalala/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@sunnybboy_)
