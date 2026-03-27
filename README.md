@@ -117,6 +117,25 @@ My work spans algorithmic trading systems, statistical risk models, full-stack f
 
 ---
 
+## GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sunny-bboy&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7&icon_color=02D9F7&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com?user=sunny-bboy&theme=dark&hide_border=true&stroke=0d1117&background=0d1117&ring=02D9F7&fire=02D9F7&currStreakLabel=02D9F7&sideLabels=c9d1d9&dates=6b7280&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+</div>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-bboy&layout=compact&hide_border=true&title_color=02D9F7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunny-bboy&bg_color=0d1117&color=94A3B8&line=02D9F7&point=FFFFFF&area=true&area_color=02D9F715&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
+</div>
+
+---
+
 ## Currently Working On
 
 ```python
