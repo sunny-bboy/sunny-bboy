@@ -7,7 +7,6 @@
 <a href="https://shabalala.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=02D9F7" /></a>
 
 </div>
----
 
 ## About
 
